@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/Zheglo/trued.git",
   "author": "zheglo <sergeyzheglo@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "^3.6.1"
+  }
 }
